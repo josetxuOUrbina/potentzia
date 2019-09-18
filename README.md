@@ -1,0 +1,2 @@
+# potentzia
+Potentzia euli-pisu
